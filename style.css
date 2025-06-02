@@ -1,0 +1,40 @@
+#reset{
+    background-image: -webkit-linear-gradient(lightgreen, green, darkgreen);
+    color: aliceblue;
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+#button1{
+    background-image: -webkit-linear-gradient(lightgreen, green, darkgreen);
+    color: aliceblue;
+    font-size: 30px;
+}
+
+#button2{
+    background-image: -webkit-linear-gradient(rgb(255, 50, 39), red, darkred);
+    color: aliceblue;
+    font-size: 30px;
+}
+
+#container{
+    text-align: center;
+
+}
+
+#counter{
+    display:block;
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: aliceblue;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 10em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+
+body{
+    background-color: darkslategrey;
+}
