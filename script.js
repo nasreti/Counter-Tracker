@@ -1,4 +1,3 @@
-
 const negative = document.getElementById("button2");
 const rest = document.getElementById("reset");
 const add = document.getElementById("button1");
