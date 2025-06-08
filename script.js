@@ -19,3 +19,4 @@ rest.onclick = function(){
     count = 0;
     countLabel.textContent = count;
 }
+
